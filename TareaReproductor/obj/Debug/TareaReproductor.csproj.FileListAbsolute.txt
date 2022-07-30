@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\bin\Debug\TareaReproductor.exe.config
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\bin\Debug\TareaReproductor.exe
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\bin\Debug\TareaReproductor.pdb
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.Form1.resources
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.Properties.Resources.resources
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.exe
+C:\Users\User\Desktop\diseño centrado\Reproductor\TareaReproductor\obj\Debug\TareaReproductor.pdb
